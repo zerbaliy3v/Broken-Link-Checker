@@ -1,2 +1,6 @@
 # Broken-Link-Checker
-Broken Link Finder
+```
+git clone
+cd Broken-Link-Checker/
+python broken-link-checker.py https://target.com
+```
