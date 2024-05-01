@@ -13,8 +13,9 @@
   <a href="#contributing">🤝 Contributing</a> •
 </p>
 
-
-![Broken-Link-Checker](./image-removebg-preview.png)
+<h1 align="center">
+![Broken-Link-Checker](https://github.com/zerbaliy3v/Broken-Link-Checker/blob/main/image-removebg-preview.png?raw=true)
+</h1>
 
 ## About
 
