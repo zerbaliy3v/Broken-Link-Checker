@@ -9,7 +9,6 @@
   <a href="#about">📖 About</a> •
   <a href="#installation">🏗️ Installation</a> •
   <a href="#usage">⛏️ Usage</a> •
-  <a href="#examples">🚀 Examples</a> •
   <a href="#contributing">🤝 Contributing</a> •
 </p>
 
