@@ -20,8 +20,7 @@
 
 ## About
 
-`Broken-Link-Checker` find links
-
+`Broken-Link-Checker` - Check for broken links on your website
 ## Installation
 
 To install `Broken-Link-Checker`, follow these steps:
